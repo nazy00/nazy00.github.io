@@ -1,4 +1,4 @@
-baseURL = 'https://naziya.cybar.dev/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://naziya.cybar.dev/"
+languageCode = "en-us"
+title = "Naz's Site"
 theme = "hyde"
